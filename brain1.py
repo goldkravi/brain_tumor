@@ -89,7 +89,7 @@ with tab2:
 #st.link_button("My Github Repository", "https://github.com/ShilpiShaw25/AP_Polytechnic_Image_classification")
   # URL of the PDF file in the GitHub repository
   # sample url -> "https://raw.githubusercontent.com/yourusername/yourrepository/branch/yourfile.pdf"
-  pdf_url = "https://raw.githubusercontent.com/goldkravi/brain_tumor/main/sample.pdf"
+  pdf_url = "https://raw.githubusercontent.com/goldkravi/brain_tumor/main/brain_tumor.pdf"
 #pdf_url = "https://raw.githubusercontent.com/ShilpiShaw25/AP_Polytechnic_Image_Classification/main/sample.pdf"
   # Fetch the PDF file from GitHub
   response = requests.get(pdf_url)
